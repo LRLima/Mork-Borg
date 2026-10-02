@@ -82,7 +82,7 @@ No lugar do olho que falta, uma moeda de ouro cravada na órbita. A peça mais v
 
 #### Diálogo
 
-_"E então os cães finalmente decidem vir à minha toca. Enblick esteve à sua espera, ansiosa."_\
+_"E então os cães finalmente decidem vir à toca. Enblick esteve à sua espera, ansiosa."_\
 _"Enblick já quase se levantara para apaziguar o aborrecimento que a demora de vocês causou."_\
 _"Pensava ela em picotar mais alguns dos dedos de Hulda."_
 
