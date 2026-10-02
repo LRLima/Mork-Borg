@@ -62,8 +62,8 @@ _"Entrem logo, antes que eu me canse da cara enrugada de vocês."_
 
 A mulher medonha leva sua mão ossuda para o puxador.\
 Aplicando toda a sua força em seus dedos ensebados, faz a porta ranger até abrir.\
-Gemendo de maneira chorosa, ela bate seu pé sangrento contra o chão repetidas vezes, para quem sabe afastar a dor.\
-O sangue voa e colore as partes em que a podridão descascou a porta, agora um pouco mais vermelha.
+Gemendo de maneira chorosa, ela bate seu pé sangrento contra o chão repetidas vezes, em uma tentativa de afastar a dor.\
+O sangue voa e colore as partes em que a podridão descascou a porta, agora um pouco mais avermelhada.
 
 ...
 
