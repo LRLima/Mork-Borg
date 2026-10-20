@@ -98,7 +98,6 @@ _"Ah sim, um trabalho, sim. Enblick tem um servicinho para vocês, somente para 
 _"Enblick enviou cinco de seus homens para a empreitada, nenhum dos idiotas voltou com o prometido. Na verdade, não voltaram, morreram lá mesmo."_\
 _"Enblick anda achando que está abrigando um bando de vagabundos incompetentes, isso a enfurece!"_
 
-#### Descrição da Cena
 
 >[!IMPORTANT]
 >Ao exclamar esse último desabafo, Enblick, furiosa, agarra um martelo de abate jogado aos pés de sua banheira e o arremessa contra um dos bandidos que jogava dados.\
@@ -122,3 +121,6 @@ _"Enblick dirá apenas isso: um buraco, muitas moedas e alguns mortos. O resto, 
 > Um jogador pode tentar pechinchar com um teste de Presença DR12. Sucesso: Enblick sobe para 100 moedas de prata cada.\
 > Quem quiser mais pode arriscar um segundo teste, DR14. Sucesso: 150 moedas de prata cada.\
 > Falha em qualquer teste: Enblick baixa a oferta para 40 moedas de prata e não aceita mais negociar. _"Enblick não gosta de gente gananciosa. Gente gananciosa vira dedo na mesa de dados."_
+
+#### Descrição da Cena
+Independente se os jogadores aceitarem 
