@@ -50,7 +50,7 @@ Justificativa de Elyäs: Em Sölbrännt, a última praga levou os primogênitos,
 Mas o cordeiro sempre foi um substituto, a misericórdia de Iavé aos fracos. No fim dos tempos a misericórdia acaba, e a praga cobrará a dívida verdadeira. Os fiéis pagam antes: devolvem a Iavé as primícias que lhe pertencem, os próprios primogênitos, para que o anjo da morte encontre a dívida quitada e passe. Os bebês são o cordeiro sem mancha: nunca pecaram. Uma só bacia: um só rebanho, um só sangue.
 
 ## Factions
-- **Igreja Ortodoxa (hereges).** Rebanho órfão de um profeta que os abandonou. Deus: Iavé. Odiados e queimados pelos Basiliscos. Querem vingança contra o reino por meio de pragas, como no Egito. Acreditam que os marcados com sangue serão poupados. Não serão: os cultistas morrem nos túneis. Comem do próprio messias (a relíquia); na parte 1 isso só é sugerido.
+- **Igreja Ortodoxa (hereges).** Rebanho órfão de um profeta que os abandonou. Deus: Iavé. Odiados e queimados pelos Basiliscos. Querem vingança contra o reino por meio de pragas, como no Sölbrännt. Acreditam que os marcados com sangue serão poupados. Não serão: os cultistas morrem nos túneis. Comem do próprio messias (a relíquia); na parte 1 isso só é sugerido.
 - **Os bandidos da caolha.** Controlam a região da viela. Contratam os personagens. Motivo: (fill)
 - **Igreja dos Basiliscos de Duas Cabeças (canon do Mörk Borg).** Queimaram os seguidores da fé antiga.
 
