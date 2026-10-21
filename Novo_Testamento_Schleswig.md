@@ -1,40 +1,49 @@
-# O Labirinto da Chacina de Schleswig
+# Novo Testamento de Schleswig
 
 #### Descrição da Cena
 
 Um bando de cães de guerra anda pelas ruelas da miserável cidade de Schleswig.
-Riem, tropeçam e amaldiçoam, tudo enquanto viram garrafas de goró em meio à gentalha.
-Estes são vocês, penitentes que respiram este ar pútrido sabendo que a qualquer momento as sete misérias os levarão ao fim.
+À sua volta, a gentalha ri, tropeça e amaldiçoa, tudo enquanto vira garrafas de goró.
+Entre eles, estão vocês: penitentes que respiram este ar pútrido sabendo que a qualquer momento as sete misérias os levarão ao fim.
+
+>[!NOTE]
+> Apresentação dos personagens. Descrição de aparência e ações na cena.
 
 Um homem maltrajado jogado ao chão lhes sorri com seus últimos três dentes podres.
 Seus cacos perfurados assoviam na direção de vocês.\
-Mas a melodia logo acaba quando seus lábios secos se voltam para vocês, trazendo súplicas.
+Mas a melodia logo acaba quando seus lábios secos começam a se mexer, moldando súplicas.
 
 #### Diálogo
 
 _"Oh honrados mercenários. Verhu ouviu meus lamentos e os trouxe até mim! Louvado seja."_\
-_"Vejam meus senhores, como podem observar, estou infectado pela peste. Tornei-me um moribundo."_\
+_"Vejam meus senhores, como podem observar, estou infectado pela peste. Peguei dormindo aqui, sobre a grade do bueiro. Tornei-me um moribundo."_\
 _"Entretanto, não desisti da vida, não mesmo! Desejo aproveitar meus últimos dias neste chiqueiro."_\
 _"Por isso estou aqui a pedir-lhes esmola. Só um trago para tirar-me desta miséria!"_\
 _"Teriam algum dinheiro para oferecer a este maldito penitente?"_
-
-
 
 > [!WARNING]
 > 1. Quem derramar o sangue do mendigo testa Robustez **DR10**. Se falhar, fica infectado: **não recupera HP descansando e perde d6 HP por dia até ser tratado**.
 > 2. Não atender as necessidades do mendigo somente desencadeará a entrega da mensagem de Enblick.
 > 3. Ao receber esmola ou bebida, ele os avisará sobre o que lhes espera à frente: _"Ah, e... um conselho de graça, para retribuir a sua generosidade: Cuidado com a besta à porta. Ela morde."_
+> 4. **[GM]** A peste do mendigo são os esporos das tentativas fracassadas do culto, vazando pelos bueiros. Se ele tossir, sai terra úmida com cheiro doce.
 
 _"Ah sim! Lembrei-me de uma coisa, sim."_\
-_"Enblick, líder dos ladrões, me incumbiu de entregar uma mensagem"_\
-_"Precisa falar com vocês urgentemente. Há um trabalho à sua espera"_\
+_"Enblick, líder dos ladrões, me incumbiu de entregar uma mensagem"._\
+_"Precisa falar com vocês urgentemente. Há um trabalho à sua espera"._\
 _"Espera-os na Porta Vermelha."_
 
-*...*
+>[!NOTE]
+> O sem-teto senil não oferecerá direções de imediato, deverá ser perguntado.
 
 _"Sigam a rua Storgatan, dobrem à esquerda na rua Kyrkgatan."_\
 _"Em seguida, entrem à direita na Råttgränd, que dará para a viela Tiggargränd. Ao fim encontrarão a Porta Vermelha."_\
 _"Somente anunciem o nome de seu bando, já foram avisados."_
+
+| d6 | O que acontece |
+|----|----------------|
+| 1-2 | **Perdidos.** A viela termina num beco sem saída. Três ratos de rua decidem que o bando parece rico. |
+| 3-4 | **O chão respira.** Chegam pelo caminho certo, mas um bueiro solta um bafo morno de cheiro doce. Ao lado, um cachorro magro lambe a grade e não para. |
+| 5-6 | **Chegam antes da hora.** Do fim da viela, veem Hulda fazendo malabares com a faca sem que ela os perceba. |
 
 #### Descrição da Cena
 
@@ -105,7 +114,6 @@ _"Enblick anda achando que está abrigando um bando de vagabundos incompetentes,
 >O crânio cede para dentro. Um dos olhos salta da órbita e fica pendurado no rosto.\
 >Por um instante ele continua sentado, os dados ainda na mão, a boca aberta numa pergunta que nunca termina.\
 >Então tomba sobre o barril. Do buraco na cabeça escorre um caldo grosso e acinzentado, misturado ao sangue, que se espalha pela madeira e encharca os dados de osso.\
->O cheiro de ferro e merda sobe pelo salão.\
 >O ladrão morre na hora. Aquele que estava à sua frente puxa para si os dedos que o morto tinha apostado, e o próximo rola os dados.
 
 #### Diálogo
@@ -113,9 +121,10 @@ _"Enblick anda achando que está abrigando um bando de vagabundos incompetentes,
 _"Enblick paga bem, 50 moedas de prata para cada. O que acham?"_\
 _"Os detalhes vêm depois do pacto."_
 
-...
+>[!NOTE]
+> Se forem capazes de fazê-la desembuchar, ela lhes dará uma breve sinopse da missão.
 
-_"Enblick dirá apenas isso: um buraco, muitas moedas e alguns mortos. O resto, só depois de apertarem a mão dela."_
+_"Enblick dirá apenas isso: escondidos no esgoto, algumas relíquias e alguns mortos. O resto, só depois de apertarem a mão dela."_
 
 > [!WARNING]
 > Um jogador pode tentar pechinchar com um teste de Presença DR12. Sucesso: Enblick sobe para 100 moedas de prata cada.\
