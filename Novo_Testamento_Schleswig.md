@@ -86,7 +86,6 @@ No lugar do olho que falta, uma moeda de ouro cravada na órbita. A peça mais v
 
 >[!NOTE]
 > 1. 6 ladrões no salão, 2 sempre de olho na porta.
-> 2. Um alçapão sob a banheira leva aos esgotos, e dali ao sumidouro. É a rota de fuga de Enblick.
 > 3. Quem encarar a moeda no olho dela por tempo demais vai ouvir: _"Gostou? Tem mais de onde essa saiu. Basta trabalhar."_
 
 #### Diálogo
