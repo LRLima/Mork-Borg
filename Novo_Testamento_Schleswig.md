@@ -160,14 +160,14 @@ Por entre as barras, sobe o fedor de sempre: merda, água parada, alguma coisa m
 Ela estende uma chave para aquele mais próximo dela.
 
 #### Diálogo
-_"A chave está aqui. Tem uma lamparina e pederneira ali ao canto do portão."_\
+_"A chave está aqui. Tem uma lamparina e uma pederneira ali no canto."_\
 _"Divirtam-se."_
 
 >[!WARNING]
 > A partir daqui, os jogadores estarão entrando em uma masmorra.\
->A locomoção pelos túneis será feita por meio de tabelas, promovendo suspense. Ao terem sucesso em todas as testes, encontrarão os "**Túneis do Pecado**".
+>A locomoção pelos túneis será feita por meio de tabelas, promovendo suspense. Após 3 avanços, encontrarão os "**Túneis do Pecado**".
 
-#### Descrição da Cena
+#### Descrição de Cena
 
 O portão geme ao abrir. Degraus de pedra, cobertos de limo, descem para dentro da escuridão.\
 Lá embaixo, a água bate na canela. Fria, grossa, e algo nela se move ao redor dos tornozelos de vocês.\
