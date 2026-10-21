@@ -164,5 +164,183 @@ _"A chave está aqui. Tem uma lamparina e pederneira ali ao canto do portão."_\
 _"Divirtam-se."_
 
 >[!WARNING]
+> A partir daqui, os jogadores estarão entrando em uma masmorra.\
+>A locomoção pelos túneis será feita por meio de tabelas, promovendo suspense. Ao terem sucesso em todas as testes, encontrarão os "**Túneis do Pecado**".
+
+#### Descrição da Cena
+
+O portão geme ao abrir. Degraus de pedra, cobertos de limo, descem para dentro da escuridão.\
+Lá embaixo, a água bate na canela. Fria, grossa, e algo nela se move ao redor dos tornozelos de vocês.\
+A luz da lamparina alcança três passos à frente. Depois disso, o túnel se divide em dois.
+
+>[!NOTE]
+> 1. A cada bifurcação, um jogador rola **d6**. Com o meio mapa de um dos homens de Enblick: **+1** na rolagem.
+> 2. **[GM]** A lamparina tem óleo para **8 bifurcações**. Depois disso, só a pederneira, e a escuridão.
+
+#### O Labirinto
+
+| d6 | O que acontece |
+|----|----------------|
+| 1-2 | **Errado.** Um encontro. Role na tabela de ameaças. |
+| 3-4 | **Em círculos.** Nenhum avanço. Uma marca de mão na parede que eles juram já ter visto. |
+| 5-6 | **Avanço.** Veja a tabela de progresso. |
+
+#### Progresso
+
+| Avanço | O que muda |
+|--------|------------|
+| 1º | Por baixo do fedor de sempre, algo diferente. Doce, quase agradável. |
+| 2º | O doce fica forte. Manchas brancas e macias começam a surgir nas paredes. |
+| 3º | A água baixa até sumir. As paredes viram pedra trabalhada, mais velha que a cidade. Ao longe, cânticos. |
+
+#### Ameaças nos Túneis
+
+| d6 | Ameaça |
+|----|--------|
+| 1-2 | **Ratos-fungo.** Um enxame lento, com cogumelos brotando do lombo. |
+| 3-4 | **Um dos homens de Enblick.** Coberto de fungo, ainda de pé. |
+| 5-6 | **Algo na água.** Nunca aparece até atacar. Só se sente passando entre as pernas. |
+
+>[!NOTE]
+> **Ratos-fungo** HP 6 · Moral 9 · Mordida d4\
+> Quem for mordido testa Robustez **DR10**. Se falhar, fica infectado.
+>
+> **Homem de Enblick** HP 8 · Moral - · Couro surrado -d2 · Faca enferrujada d4\
+> Não fogem. Ao morrer, o corpo estoura em esporos: todos ao redor testam Robustez **DR10**.\
+> São **cinco** ao todo. Um deles carrega o **meio mapa**. Depois do quinto, este resultado vira Ratos-fungo.
+>
+> **Lampreia de esgoto** HP 6 · Moral 8 · Mordida d4\
+> Para atravessar o trecho, o bando testa Agilidade **DR12**. Quem falhar sente algo liso se enroscar no tornozelo, e então a mordida.\
+> Depois de morder, fica grudada na perna da vítima e pode ser atacada normalmente.\
+> Enquanto grudada, suga d2 HP por rodada. Arrancá-la exige Força **DR10** e deixa uma ferida redonda, perfeita, cheia de pequenos furos.\
+> Com metade do HP ou menos, teste de Moral: se falhar, solta e some na água escura.
+
+Coloquei o teste de Agilidade dentro do bloco da lampreia, assim tudo sobre ela fica num lugar só. O próximo passo é a chegada ao núcleo habitado, no terceiro avanço.
+
+Será que esses desafios ou perigos do caminho não vão ficar meio chatos? É muita gente e pouco saco de pancada. 
+Claro que, isso promove a aparecerem mais vezes, pois não dá para repetir encontros fortes. Eu acho legal a questão da rolagem, pois já consigo sentir o desespero dos meus jogadores de terem um resultado positivo.
+
+Evaluating combat balance for a tabletop game with six players.
+
+Você tem razão nas duas coisas. A rolagem é o coração dessa parte, e o desespero de esperar o 5-6 é exatamente o suspense que você quer. Mas, contra seis jogadores, criaturas de HP 6 a 8 morrem numa rodada só. Na terceira vez, o encontro vira burocracia.
+
+Antes da solução, uma conta que vale ver. Com 1 chance em 3 de avançar e precisando de 3 avanços, o bando leva em média 9 bifurcações para chegar ao núcleo. Isso dá uns 3 encontros, uns 3 resultados em círculos e uma lamparina que, com óleo para 8, costuma acabar antes do fim. Pode ser intencional, mas é bom saber.
+
+Três formas de deixar o caminho interessante sem inflar os monstros:
+
+Encontros que escalam. Cada encontro é pior que o anterior: o primeiro rato vem sozinho, o segundo encontro traz dois enxames, o terceiro traz um homem de Enblick com ratos em volta. A repetição vira descida.
+Encontros que custam, em vez de machucar. Cada luta queima óleo da lamparina e faz barulho. O inimigo de verdade é o escuro, e cada combate, mesmo fácil, aproxima o bando dele.
+Números pelo tamanho do grupo. Um inimigo para cada dois jogadores. Resolve a fragilidade, mas deixa as lutas mais longas, que é o que você quer evitar.
+
+Eu iria na 1 junto com a 2. As lutas continuam rápidas, mas cada uma pesa mais que a anterior e consome o recurso que os jogadores mais temem perder. Em regra, cabe numa nota só:
+
+markdown
+>[!NOTE]
+> 1. Cada encontro gasta **1 bifurcação** extra de óleo da lamparina.
+> 2. Os encontros escalam: o **2º** encontro traz o dobro de criaturas; do **3º** em diante, role duas vezes na tabela de ameaças e junte as duas.
+> 3. A lamparina tem óleo para **12 bifurcações**.
+
+Subi o óleo para 12 porque, com o custo dos encontros, 8 garantiria a escuridão quase sempre. Assim, com dados medianos, a luz acaba bem perto do núcleo, que é o momento mais assustador para isso acontecer.
+
+Variando os resultados de falha sem alterar a mecânica original.
+
+Combinado, mantemos o seu jeito: rolam até somar 3 sucessos, e os jogadores desenham o próprio mapa. Para não ficar repetitivo, a mudança fica só na tabela de ameaças: cada ameaça aparece uma vez só. Depois de usada, aquele resultado vira um acontecimento estranho, sem luta.
+
+markdown
+#### Ameaças nos Túneis
+
+>[!NOTE]
+> Cada ameaça acontece **uma única vez**. Depois de usada, o resultado vira o evento da coluna ao lado.
+
+| d6 | Ameaça | Depois de usada |
+|----|--------|-----------------|
+| 1-2 | **Ratos-fungo.** Um enxame lento, com cogumelos brotando do lombo. | Um rato boia de barriga para cima. Cogumelos saem dos olhos. |
+| 3-4 | **Homens de Enblick**, um para cada dois jogadores. Cobertos de fungo, ainda de pé. | Uma bota sozinha na água. Dentro dela, ainda um pé. |
+| 5-6 | **Algo na água.** Nunca aparece até atacar. Só se sente passando entre as pernas. | Algo liso roça uma perna e some. Ninguém mais o vê. |
+
+O que isso resolve:
+
+No máximo três lutas, cada uma diferente. Contra seis jogadores, os homens de Enblick vêm em número suficiente para segurar a briga.
+Os eventos sem luta mantêm a tensão, porque ninguém sabe que aquilo não vai virar combate. A lampreia que “some” é a melhor: ela ainda está lá.
+O mapa dos jogadores ganha peso: o “em círculos” faz mais sentido quando eles mesmos desenharam o lugar e reconhecem a marca de mão.
+
+Se quiser recompensar o mapa, uma regra pequena: quando os jogadores reconhecerem pelo desenho uma bifurcação onde já erraram e escolherem o outro lado, ganham +1 na rolagem.
+
+Faz tudo denovo
+
+Reunindo o capítulo 2 com regras, progresso e ameaças.
+
+Capítulo 2 completo, com o seu sistema de rolagem e as ameaças que só aparecem uma vez:
+
+markdown
+## Capítulo 2: Os Túneis do Pecado
+
+#### Descrição da Cena
+
+Hulda, mancando, os conduz para fora da porta vermelha. Nenhuma palavra durante o caminho, somente um sorriso evidentemente forçado e um gesto com sua mão asquerosa.\
+Sob sua tutela, a travessia pelos becos de Schleswig torna-se rápida. Essa cobra já se esgueirou muito por aí.\
+Com a igreja dos Basiliscos no horizonte próximo, vocês descem uma rua muito estreita e se deparam com um portão de barras de ferro enferrujadas.\
+Por entre as barras, sobe o fedor de sempre: merda, água parada, alguma coisa morta.\
+Ela estende uma chave para aquele mais próximo dela.
+
+#### Diálogo
+
+_"A chave está aqui. Tem uma lamparina e uma pederneira ali no canto do portão."_\
+_"Divirtam-se."_
+
+>[!WARNING]
 > A partir daqui, os jogadores estarão entrando em uma dungeon.\
->A locomoção pelos túneis será feita por meio de tabelas, promovendo suspense. Ao terem sucesso em todas as salvaguardas, encontrarão os "**Tunéis do Pecado**".
+> A locomoção pelos túneis será feita por meio de tabelas, promovendo suspense. Após **3 avanços**, encontrarão os **Túneis do Pecado**.\
+> Os jogadores desenham o próprio mapa enquanto avançam.
+
+#### Descrição da Cena
+
+O portão geme ao abrir. Degraus de pedra, cobertos de limo, descem para dentro da escuridão.\
+Lá embaixo, a água bate na canela. Fria, grossa, e algo nela se move ao redor dos tornozelos de vocês.\
+A luz da lamparina alcança três passos à frente. Depois disso, o túnel se divide em dois.
+
+>[!NOTE]
+> 1. A cada bifurcação, um jogador rola **d6**.
+> 2. **+1** na rolagem se o bando tiver o **meio mapa**, ou se reconhecer pelo próprio desenho uma bifurcação onde já errou e escolher o outro lado. Os bônus não se somam.
+> 3. **[GM]** A lamparina tem óleo para **12 bifurcações**. Depois disso, só a pederneira, e a escuridão.
+
+#### O Labirinto
+
+| d6 | O que acontece |
+|----|----------------|
+| 1-2 | **Errado.** Role na tabela de ameaças. |
+| 3-4 | **Em círculos.** Nenhum avanço. Uma marca de mão na parede que eles juram já ter visto. |
+| 5-6 | **Avanço.** Veja a tabela de progresso. |
+
+#### Progresso
+
+| Avanço | O que muda |
+|--------|------------|
+| 1º | Por baixo do fedor de sempre, algo diferente. Doce, quase agradável. |
+| 2º | O doce fica forte. Manchas brancas e macias começam a surgir nas paredes. |
+| 3º | A água baixa até sumir. As paredes viram pedra trabalhada, mais velha que a cidade. Ao longe, cânticos. |
+
+#### Ameaças nos Túneis
+
+>[!NOTE]
+> Cada ameaça acontece **uma única vez**. Depois de usada, o resultado vira o evento da coluna ao lado.
+
+| d6 | Ameaça | Depois de usada |
+|----|--------|-----------------|
+| 1-2 | **Ratos-fungo.** Um enxame lento, com cogumelos brotando do lombo. | Um rato boia de barriga para cima. Cogumelos saem dos olhos. |
+| 3-4 | **Homens de Enblick**, um para cada dois jogadores. Cobertos de fungo, ainda de pé. | Uma bota sozinha na água. Dentro dela, ainda um pé. |
+| 5-6 | **Algo na água.** Nunca aparece até atacar. Só se sente passando entre as pernas. | Algo liso roça uma perna e some. Ninguém mais o vê. |
+
+>[!NOTE]
+> **Ratos-fungo** HP 6 · Moral 9 · Mordida d4\
+> Quem for mordido testa Robustez **DR10**. Se falhar, fica infectado.
+>
+> **Homem de Enblick** HP 8 · Moral - · Couro surrado -d2 · Faca enferrujada d4\
+> Não fogem. Ao morrer, o corpo estoura em esporos: todos ao redor testam Robustez **DR10**.\
+> Um deles carrega o **meio mapa**.
+>
+> **Lampreia de esgoto** HP 6 · Moral 8 · Mordida d4\
+> Para atravessar o trecho, o bando testa Agilidade **DR12**. Quem falhar sente algo liso se enroscar no tornozelo, e então a mordida.\
+> Depois de morder, fica grudada na perna da vítima e pode ser atacada normalmente.\
+> Enquanto grudada, suga d2 HP por rodada. Arrancá-la exige Força **DR10** e deixa uma ferida redonda, perfeita, cheia de pequenos furos.\
+> Com metade do HP ou menos, teste de Moral: se falhar, solta e some na água escura.
