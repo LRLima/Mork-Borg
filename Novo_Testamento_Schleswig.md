@@ -150,6 +150,19 @@ _"Quando a água baixar estarão perto."_
 
 ## Capítulo 2: Os Túneis do Pecado
 
+
 #### Descrição de Cena
 
+Hulda, mancando, os conduz para fora da porta vermelha. Nenhuma palavra durante o caminho, somente um sorriso evidentemente forçado e um gesto com sua mão asquerosa.\
+Sob sua tutela, a travessia pelos becos de Schleswig torna-se rápida. Essa cobra já se esgueirou muito por aí.\
+Com a igreja dos Basiliscos no horizonte próximo, vocês descem uma rua muito estreita e se deparam com um portão de barras de ferro enferrujadas.\
+Por entre as barras, sobe o fedor de sempre: merda, água parada, alguma coisa morta.\
+Ela estende uma chave para aquele mais próximo dela.
 
+#### Diálogo
+_"A chave está aqui. Tem uma lamparina e pederneira ali ao canto do portão."_\
+_"Divirtam-se."_
+
+>[!WARNING]
+> A partir daqui, os jogadores estarão entrando em uma dungeon.\
+>A locomoção pelos túneis será feita por meio de tabelas, promovendo suspense. Ao terem sucesso em todas as salvaguardas, encontrarão os "**Tunéis do Pecado**".
