@@ -24,7 +24,7 @@ _"Por isso estou aqui a pedir-lhes esmola. Só um trago para tirar-me desta mis�
 _"Teriam algum dinheiro para oferecer a este maldito penitente?"_
 
 > [!WARNING]
-> 1. Quem derramar o sangue do mendigo testa Robustez **DR10**. Se falhar, fica infectado: **não recupera HP descansando e perde d6 HP por dia até ser tratado**.
+> 1. Quem derramar o sangue do mendigo testa Robustez **DR10**. Se falhar, fica infectado: **não recupera HP descansando e perde d6 HP por dia até comer a carne do profeta.**.
 > 2. Não atender as necessidades do mendigo somente desencadeará a entrega da mensagem de Enblick.
 > 3. Ao receber esmola ou bebida, ele os avisará sobre o que lhes espera à frente: _"Ah, e... um conselho de graça, para retribuir a sua generosidade: Cuidado com a besta à porta. Ela morde."_
 > 4. **[GM]** A peste do mendigo são os esporos das tentativas fracassadas do culto, vazando pelos bueiros. Se ele tossir, sai terra úmida com cheiro doce.
@@ -138,15 +138,18 @@ _"Enblick dirá apenas isso: escondidos no esgoto, algumas relíquias e alguns m
 #### Diálogo
 _"Pois bem. Agora que estamos acertados, Enblick lhes contará."_\
 _"Debaixo dos nossos pés, nos esgotos, rastejando como ratos, vive um culto herege conhecido como a Igreja Ortodoxa"._\
-_"São lunáticos que acreditam num único Deus, guiados pelos ensinamentos de um profeta desmiolado nascido a mais de mil anos"._\
+_"São lunáticos que acreditam num único Deus, guiados pelos ensinamentos de um profeta desmiolado nascido há mais de mil anos"._\
 _"Eles são selvagens ritualísticos, muito perigosos. Suas relíquias são ainda piores. Enblick as quer"._\
 _"Dizem que fazem milagres. Milagre vende bem."_
 
 ...
 
-_"Hulda os levará até o portão do esgoto mais próximo de onde os hereges se escondem"._
-_"Não tem mapa. Não tem marcação. Só duas coisas servem de guia: estão na parte velha e o fedor doce"._
+_"Hulda os levará até o portão do esgoto mais próximo de onde os hereges se escondem"._\
+_"Não tem mapa. Não tem marcação. Só duas coisas servem de guia: a parte velha e o fedor doce"._\
 _"Quando a água baixar estarão perto."_
 
 ## Capítulo 2: Os Túneis do Pecado
+
+#### Descrição de Cena
+
 
