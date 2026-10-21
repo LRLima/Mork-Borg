@@ -1,5 +1,7 @@
 # Novo Testamento de Schleswig
 
+## Capítulo 1: Entrando em Cena
+
 #### Descrição da Cena
 
 Um bando de cães de guerra anda pelas ruelas da miserável cidade de Schleswig.
@@ -38,6 +40,9 @@ _"Espera-os na Porta Vermelha."_
 _"Sigam a rua Storgatan, dobrem à esquerda na rua Kyrkgatan."_\
 _"Em seguida, entrem à direita na Råttgränd, que dará para a viela Tiggargränd. Ao fim encontrarão a Porta Vermelha."_\
 _"Somente anunciem o nome de seu bando, já foram avisados."_
+
+>[!WARNING]
+> Um jogador rola **d6**. Se alguém anotou ou repetiu as direções em voz alta, **+1** na rolagem.
 
 | d6 | O que acontece |
 |----|----------------|
@@ -130,5 +135,18 @@ _"Enblick dirá apenas isso: escondidos no esgoto, algumas relíquias e alguns m
 > Quem quiser mais pode arriscar um segundo teste, DR14. Sucesso: 150 moedas de prata cada.\
 > Falha em qualquer teste: Enblick baixa a oferta para 40 moedas de prata e não aceita mais negociar. _"Enblick não gosta de gente gananciosa. Gente gananciosa vira dedo na mesa de dados."_
 
-#### Descrição da Cena
-Independente se os jogadores aceitarem 
+#### Diálogo
+_"Pois bem. Agora que estamos acertados, Enblick lhes contará."_\
+_"Debaixo dos nossos pés, nos esgotos, rastejando como ratos, vive um culto herege conhecido como a Igreja Ortodoxa"._\
+_"São lunáticos que acreditam num único Deus, guiados pelos ensinamentos de um profeta desmiolado nascido a mais de mil anos"._\
+_"Eles são selvagens ritualísticos, muito perigosos. Suas relíquias são ainda piores. Enblick as quer"._\
+_"Dizem que fazem milagres. Milagre vende bem."_
+
+...
+
+_"Hulda os levará até o portão do esgoto mais próximo de onde os hereges se escondem"._
+_"Não tem mapa. Não tem marcação. Só duas coisas servem de guia: estão na parte velha e o fedor doce"._
+_"Quando a água baixar estarão perto."_
+
+## Capítulo 2: Os Túneis do Pecado
+
