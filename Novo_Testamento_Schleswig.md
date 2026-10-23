@@ -164,7 +164,7 @@ _"A chave está aqui. Tem uma lamparina e uma pederneira ali no canto."_\
 _"Divirtam-se."_
 
 >[!WARNING]
-> A partir daqui, os jogadores estarão entrando em uma masmorra.\
+> A partir daqui, os jogadores estarão trafegando os túneis que levam á masmorra.\
 >A locomoção pelos túneis será feita por meio de tabelas, promovendo suspense. Após 3 avanços, encontrarão os "**Túneis do Pecado**".
 
 #### Descrição de Cena
@@ -218,3 +218,7 @@ A luz da lamparina alcança três passos à frente. Depois disso, o túnel se di
 > Depois de morder, fica grudada na perna da vítima e pode ser atacada normalmente.\
 > Enquanto grudada, suga d2 HP por rodada. Arrancá-la exige Força **DR10** e deixa uma ferida redonda, perfeita, cheia de pequenos furos.\
 > Com metade do HP ou menos, teste de Moral: se falhar, solta e some na água escura.
+
+>[!WARNING]
+> A partir daqui, os jogadores estarão entrando em uma masmorra.\
+>A locomoção pelos túneis será feita por meio de tabelas, promovendo suspense. Após 3 avanços, encontrarão os "**Túneis do Pecado**".
