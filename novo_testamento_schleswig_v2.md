@@ -221,4 +221,167 @@ A luz da lamparina alcança três passos à frente. Depois disso, o túnel se di
 >[!WARNING]
 > Ao terceiro avanço, os jogadores chegam aos **Túneis do Pecado**. Daqui em diante, a exploração segue o mapa.
 
-![Mapa dos Túneis do Pecado](tuneis_pecado.png)
+![Mapa dos Túneis do Pecado](sin_tunnels.png)
+
+<table>
+<tr>
+<td><img width="470" height="1"></td>
+<td><img width="370" height="1"></td>
+</tr>
+
+<tr><th colspan="2" align="left">1. Ossuário de Boas-Vindas</th></tr>
+<tr>
+<td valign="top">
+
+**Leitura**
+
+(o que veem, ouvem e cheiram; terminar em algo para reagir)
+
+</td>
+<td valign="top">
+
+**Mestre**
+- **Perigo:** esqueleto com carne, no poço de espinhos.
+- **Segredo:** rastros de arrasto até a dispensa (Presença DR12).
+- **Loot:**
+- **Saídas:** Refeitório.
+
+</td>
+</tr>
+
+<tr><th colspan="2" align="left">2. Refeitório Comunal</th></tr>
+<tr>
+<td valign="top">
+
+**Leitura**
+
+(os fiéis no meio da refeição; pouca coisa na mesa, muita carne)
+
+</td>
+<td valign="top">
+
+**Mestre**
+- **Cena:** pai e filho. _"Sua mãe está esperando. Deixe-me falar com esses aventureiros."_
+- **Pista:** de onde vem tanta comida?
+- **Loot:**
+- **Saídas:** Ossuário, Cozinha, Dormitório, Biblioteca.
+
+</td>
+</tr>
+
+<tr><th colspan="2" align="left">3. Cozinha</th></tr>
+<tr>
+<td valign="top">
+
+**Leitura**
+
+(...)
+
+</td>
+<td valign="top">
+
+**Mestre**
+- **Pista:**
+- **Loot:**
+- **Saídas:** Refeitório, Dispensa.
+
+</td>
+</tr>
+
+<tr><th colspan="2" align="left">4. Dispensa Canibal</th></tr>
+<tr>
+<td valign="top">
+
+**Leitura**
+
+(os que negaram, de cabeça para baixo, coroados de arame, nome na tábua)
+
+</td>
+<td valign="top">
+
+**Mestre**
+- **Revelação:** os fiéis comem os que duvidaram.
+- **Loot:**
+- **Saídas:** Cozinha, Ossuário (passagem secreta).
+
+</td>
+</tr>
+
+<tr><th colspan="2" align="left">5. Dormitório dos Fiéis</th></tr>
+<tr>
+<td valign="top">
+
+**Leitura**
+
+(...)
+
+</td>
+<td valign="top">
+
+**Mestre**
+- **Segredo:**
+- **Loot:** baú ao lado da cama, item raro da tabela do livro.
+- **Saídas:** Refeitório.
+
+</td>
+</tr>
+
+<tr><th colspan="2" align="left">6. Biblioteca Profana</th></tr>
+<tr>
+<td valign="top">
+
+**Leitura**
+
+(...)
+
+</td>
+<td valign="top">
+
+**Mestre**
+- **Segredo:**
+- **Loot:** pergaminhos escondidos.
+- **Saídas:** Refeitório, Altar.
+
+</td>
+</tr>
+
+<tr><th colspan="2" align="left">7. Altar de Sacrifício</th></tr>
+<tr>
+<td valign="top">
+
+**Leitura**
+
+(as mães, as lâminas encostadas nas gargantas, o Helgonfar sobre a fonte)
+
+</td>
+<td valign="top">
+
+**Mestre**
+- **Relógio:** a partir da iniciativa, uma criança por rodada.
+- **Campeão:** come um pedaço do Pastor. _"Tomai e comei. Você não morrerá."_
+- **Fim do rito:** a última criança solta a Miséria.
+- **Loot:** os pedaços do Pastor.
+- **Saídas:** Biblioteca, Sacristia.
+
+</td>
+</tr>
+
+<tr><th colspan="2" align="left">8. Sacristia Profana</th></tr>
+<tr>
+<td valign="top">
+
+**Leitura**
+
+(...)
+
+</td>
+<td valign="top">
+
+**Mestre**
+- **Segredo:**
+- **Loot:** o baú.
+- **Saídas:** Altar.
+
+</td>
+</tr>
+</table>
