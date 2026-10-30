@@ -248,8 +248,8 @@ Mais à frente, um fosso espinhento. De lá de dentro, um estalo úmido. Depois 
 
 **Mestre**
 - **Perigo:** Esqueleto Encharcado de Sangue, na fossa de espinhos.
-- **Segredo:** Broche de família na poça de sangue (Presença DR12).
-- **Loot:**
+- **Segredo:** Broche de família nobre na poça de sangue (Presença DR12).
+- **Loot:** Espada curta
 - **Saídas:** Refeitório.
 
 </td>
