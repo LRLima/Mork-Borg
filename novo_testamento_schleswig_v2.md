@@ -235,14 +235,20 @@ A luz da lamparina alcança três passos à frente. Depois disso, o túnel se di
 
 **Leitura**
 
-(o que veem, ouvem e cheiram; terminar em algo para reagir)
+Os jogadores adentram uma caverna de calcário, úmida e umbrosa.\
+O cheiro familiar de amônia e sangue de Schleswig invade seus narizes, todavia, 
+agora carregado com uma catinga terrível de carne pútrida e tutano rançoso.
+
+A luz da lamparina morre a poucos passos, mas o eco dos seus passos demora a voltar.\
+Antes da escuridão, pouco se pôde ver: Ossos humanos dispersos por todo o chão, de diferentes tamanhos e idades.\
+Mais à frente, um fosso espinhento. De lá de dentro, um estalo úmido. Depois outro.
 
 </td>
 <td valign="top">
 
 **Mestre**
-- **Perigo:** esqueleto com carne, no poço de espinhos.
-- **Segredo:** rastros de arrasto até a dispensa (Presença DR12).
+- **Perigo:** Esqueleto Encharcado de Sangue, na fossa de espinhos.
+- **Segredo:** Broche de família na poça de sangue (Presença DR12).
 - **Loot:**
 - **Saídas:** Refeitório.
 
