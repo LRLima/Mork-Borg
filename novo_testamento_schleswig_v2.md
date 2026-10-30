@@ -240,7 +240,7 @@ O cheiro familiar de amônia e sangue de Schleswig invade seus narizes, todavia,
 agora carregado com uma catinga terrível de carne pútrida e tutano rançoso.
 
 A luz da lamparina morre a poucos passos, mas o eco dos seus passos demora a voltar.\
-Antes da escuridão, pouco se pôde ver: Ossos humanos dispersos por todo o chão, de diferentes tamanhos e idades.\
+Em meio à escuridão: Ossos humanos dispersos por todo o chão, de diferentes tamanhos e idades.\
 Mais à frente, um fosso espinhento. De lá de dentro, um estalo úmido. Depois outro.
 
 </td>
