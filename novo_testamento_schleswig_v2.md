@@ -18,7 +18,7 @@ Mas a melodia logo acaba quando seus lábios secos começam a se mexer, moldando
 #### Diálogo
 
 _"Oh honrados mercenários. Verhu ouviu meus lamentos e os trouxe até mim! Louvado seja."_\
-_"Vejam meus senhores, como podem observar, estou infectado pela peste. Peguei dormindo aqui, sobre a grade do bueiro. Tornei-me um moribundo."_\
+_"Vejam meus senhores, como podem observar, estou infectado pela peste. Tornei-me um moribundo."_\
 _"Entretanto, não desisti da vida, não mesmo! Desejo aproveitar meus últimos dias neste chiqueiro."_\
 _"Por isso estou aqui a pedir-lhes esmola. Só um trago para tirar-me desta miséria!"_\
 _"Teriam algum dinheiro para oferecer a este maldito penitente?"_
@@ -46,13 +46,12 @@ _"Somente anunciem o nome de seu bando, já foram avisados."_
 | d6 | O que acontece |
 |----|----------------|
 | 1-2 | **Perdidos.** A viela termina num beco sem saída. Três ratos de rua decidem que o bando parece rico. |
-| 3-4 | **O chão respira.** Chegam pelo caminho certo, mas um bueiro solta um bafo morno de cheiro doce. Ao lado, um cachorro magro lambe a grade e não para. |
-| 5-6 | **Chegam antes da hora.** Do fim da viela, veem Hulda fazendo malabares com a faca sem que ela os perceba. |
+| 3-6 | **Chegam antes da hora.** Do fim da viela, veem Hulda fazendo malabares com a faca sem que ela os perceba. |
 
 #### Descrição da Cena
 
 Ao fim do trajeto, vocês se deparam com uma porta vermelha, de madeira apodrecida.\
-Escorada na parede musgosa ao lado, uma mulher de aparência grotesca, fazendo malabares com uma faca.\
+Escorada na parede musgosa ao lado, uma pequena mulher de aparência grotesca, fazendo malabares com uma faca.\
 
 ...
 
@@ -89,8 +88,8 @@ No fundo, afundada numa banheira de cobre cheia de moedas, Enblick.\
 No lugar do olho que falta, uma moeda de ouro cravada na órbita. A peça mais valiosa do salão.
 
 >[!NOTE]
-> 1. 6 ladrões no salão, 2 sempre de olho na porta.
-> 3. Quem encarar a moeda no olho dela por tempo demais vai ouvir: _"Gostou? Tem mais de onde essa saiu. Basta trabalhar."_
+> 1. Haverá ladrões no salão equivalente ao número de jogadores + 1.
+> 2. Quem encarar a moeda no olho dela por tempo demais vai ouvir: _"Gostou? Tem mais de onde essa saiu. Basta trabalhar."_
 
 #### Diálogo
 
@@ -144,7 +143,7 @@ _"Dizem que fazem milagres. Milagre vende bem."_
 ...
 
 _"Hulda os levará até o portão do esgoto mais próximo de onde os hereges se escondem"._\
-_"Não tem mapa. Não tem marcação. Só duas coisas servem de guia: a parte velha e o fedor doce"._\
+_"Não tem mapa. Não tem marcação. Só uma coisa serve de guia: Os cadáveres na água"._\
 _"Quando a água baixar estarão perto."_
 
 ## Capítulo 2: Os Túneis do Pecado
@@ -169,13 +168,13 @@ _"Divirtam-se."_
 #### Descrição da Cena
 
 O portão geme ao abrir. Degraus de pedra, cobertos de limo, descem para dentro da escuridão.\
-Lá embaixo, a água bate na canela. Fria, grossa, e algo nela se move ao redor dos tornozelos de vocês.\
+Lá embaixo, a água bate na canela. Fria, grossa, fedorenta, e algo nela se move ao redor dos tornozelos de vocês.\
 A luz da lamparina alcança três passos à frente. Depois disso, o túnel se divide em dois.
 
 >[!NOTE]
 > 1. A cada bifurcação, um jogador rola **d6**.
-> 2. **+1** na rolagem se o bando tiver o **meio mapa**, ou se reconhecer pelo próprio desenho uma bifurcação onde já errou e escolher o outro lado. Os bônus não se somam.
-> 3. **[GM]** A lamparina tem óleo para **12 bifurcações**. Depois disso, só a pederneira, e a escuridão.
+> 2. **+1** na rolagem se o bando tiver o **meio mapa**.
+> 3. **[GM]** A lamparina tem óleo para **8 bifurcações**. Depois disso, só a pederneira, e a escuridão.
 
 #### O Labirinto
 
@@ -189,8 +188,8 @@ A luz da lamparina alcança três passos à frente. Depois disso, o túnel se di
 
 | Avanço | O que muda |
 |--------|------------|
-| 1º | Por baixo do fedor de sempre, algo diferente. Doce, quase agradável. |
-| 2º | O doce fica forte. Nas paredes, marcas de mãos em sangue seco, todas do mesmo tamanho. |
+| 1º | Por baixo do fedor de sempre, algo diferente. Carne, cheiro agradável de comida. |
+| 2º | O cheiro fica forte. Nas paredes, marcas de mãos em sangue seco, todas do mesmo tamanho. |
 | 3º | A água baixa até sumir. As paredes viram pedra trabalhada, mais velha que a cidade. Ao longe, cânticos. |
 
 #### Ameaças nos Túneis
