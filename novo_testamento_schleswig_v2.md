@@ -305,15 +305,19 @@ No fogo, um caldeirão tampado ferve sozinho. A tampa treme e bate, treme e bate
 
 **Leitura**
 
-(os que negaram, de cabeça para baixo, coroados de arame, nome na tábua)
+O frio aqui é de pedra e de carne guardada. Corpos pendem de cabeça para baixo, presos ao teto por correntes que terminam em ganchos cravados na pele. A carne estica com o peso. Sobre cada um, uma tábua com um nome escrito em sangue, e na cabeça uma coroa de arame farpado.\
+Faltam pedaços. Das pernas, das costas. Todos comidos de baixo para cima.\
+O último da fileira ainda gira devagar. As correntes tilintam. A coroa dele está apertada demais, o arame enterrado fundo na testa, e o sangue escorre para cima, até os cabelos. Vocês o ouvem respirar.
 
 </td>
 <td valign="top">
 
 **Mestre**
 - **Revelação:** os fiéis comem os que duvidaram.
-- **Loot:**
-- **Saídas:** Cozinha, Ossuário (passagem secreta).
+- **Fala:** o vivo, com a voz rachada: _"Vocês também veem, não veem? Ele não brilha."_
+- **Segredo:** todos aqui viram o Helgonfar como ele é, e por isso duvidaram. O vivo morre em minutos, a menos que alguém o desça e cuide dele.
+- **Loot:** Corrente dos que Negaram.
+- **Saídas:** Cozinha, Ossuário (passagem secreta: mover a laje, Força **DR12**; falha não bloqueia, mas faz barulho).
 
 </td>
 </tr>
@@ -324,14 +328,16 @@ No fogo, um caldeirão tampado ferve sozinho. A tampa treme e bate, treme e bate
 
 **Leitura**
 
-(...)
+Fileiras de catres de palha, cobertores dobrados com cuidado. Cheiro de suor velho e cera.\
+Na parede do fundo, riscos de carvão contando dias. Centenas deles.\
+Ao lado de uma das camas, um baú com um cadeado novo. A única coisa limpa da sala.
 
 </td>
 <td valign="top">
 
 **Mestre**
-- **Segredo:**
-- **Loot:** baú ao lado da cama, item raro da tabela do livro.
+- **Segredo:** sob um dos colchões, um nome de criança riscado tantas vezes que rasgou o pano. Uma das doze mães duvidou.
+- **Loot:** baú ao lado da cama, item raro da tabela do livro. Abrir o cadeado: Agilidade **DR12**; arrombar faz barulho.
 - **Saídas:** Refeitório.
 
 </td>
@@ -343,14 +349,17 @@ No fogo, um caldeirão tampado ferve sozinho. A tampa treme e bate, treme e bate
 
 **Leitura**
 
-(...)
+Livros inchados de umidade, empilhados até o teto, as páginas coladas umas nas outras. Velas derretidas em cada canto.\
+Num atril, um livro enorme e aberto. Por cima das letras antigas, alguém escreveu em sangue, com letra apressada.\
+Da porta do outro lado vem um canto de muitas vozes. A luz por baixo dela pisca no ritmo.
 
 </td>
 <td valign="top">
 
 **Mestre**
-- **Segredo:**
-- **Loot:** pergaminhos escondidos.
+- **Ao examinar o livro:** _As letras antigas mal aparecem, finas e apagadas: "Misericórdia quero, e não sacrifício." Por cima delas, em letras grandes e tortas: "Santifica-me todo primogênito."_
+- **Pista:** um mapa de Schleswig riscado a carvão na parede. A igreja dos Basiliscos circulada em sangue.
+- **Loot:** pergaminhos escondidos num livro oco. Achar: Presença **DR12**. d2 pergaminhos sagrados.
 - **Saídas:** Refeitório, Altar.
 
 </td>
