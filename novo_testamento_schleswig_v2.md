@@ -272,7 +272,7 @@ O único prato cheio está diante de um homem na cabeceira de uma das mesas. Bar
 - **Revelação:** Quem questionar o turbante: _ele abre a boca como se fosse responder. Não há língua, só um toco escuro e cicatrizado._
 - **Segredo:** o turbante arrancou a língua para que a dúvida nunca escapasse. Não permite que levem o menino.
 - **[GM]** A carne vem da Dispensa. Nunca dizer de quem é.
-- **Loot:** NADA DEFINIDO
+- **Loot:** Faca de cozinha e prato de carne.
 - **Saídas:** Ossuário, Cozinha, Dormitório, Biblioteca.
 
 </td>
