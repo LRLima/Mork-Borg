@@ -268,7 +268,10 @@ O único prato cheio está diante de um homem na cabeceira de uma das mesas. Bar
 <td valign="top">
 
 **Mestre**
-- **Cena:** pai e filho. _"Sua mãe está esperando. Deixe-me falar com esses aventureiros."_
+- **Fala:** o filho, sem tirar os olhos do prato: _"A mamãe tá esperando."_
+- **Revelação:** Quem questionar o turbante: _ele abre a boca como se fosse responder. Não há língua, só um toco escuro e cicatrizado._
+- **Segredo:** o turbante arrancou a língua para que a dúvida nunca escapasse. Não permite que levem o menino.
+- **[GM]** A carne vem da Dispensa. Nunca dizer de quem é.
 - **Loot:** NADA DEFINIDO
 - **Saídas:** Ossuário, Cozinha, Dormitório, Biblioteca.
 
