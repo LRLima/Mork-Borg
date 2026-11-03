@@ -284,19 +284,21 @@ O único prato cheio está diante de um homem na cabeceira de uma das mesas. Bar
 
 **Leitura**
 
-(...)
+Vapor gorduroso gruda na pele. Ninguém aqui. Uma fornalha ainda em brasa, facas penduradas em fila e uma mesa de corte lavada há pouco, a madeira escura de tanto sangue velho.\
+No fogo, um caldeirão tampado ferve sozinho. A tampa treme e bate, treme e bate.
 
 </td>
 <td valign="top">
 
 **Mestre**
-- **Pista:**
-- **Loot:**
+- **Pista:** marcas de arrasto no chão, da mesa de corte até uma parede de tijolos. Achar o rastro: Presença **DR12**. Na parede, uma porta baixa disfarçada, que leva à Dispensa.
+- **Segredo:** dentro do caldeirão, caldo grosso e ossos finos demais para porco. Quem mexer acha um anel de casamento no fundo.
+- **[GM]** Ninguém cozinha: o rebanho já desceu. Nunca dizer de quem é a carne.
+- **Loot:** cutelo de açougueiro (como machadinha, d6).
 - **Saídas:** Refeitório, Dispensa.
 
 </td>
 </tr>
-
 <tr><th colspan="2" align="left">4. Dispensa Canibal</th></tr>
 <tr>
 <td valign="top">
