@@ -261,15 +261,15 @@ Mais à frente, um fosso espinhento. De lá de dentro, um estalo úmido. Depois 
 
 **Leitura**
 
-(os fiéis no meio da refeição; pouca coisa na mesa, muita carne)
+O calor bate no rosto assim que a porta abre. Duas lamparinas enormes iluminam demais uma sala que fede a carne passada. Mesas postas com cuidado, pratos e canecas vazios.\
+O único prato cheio está diante de um homem na cabeceira de uma das mesas. Barbado, pele cinzenta, manto coberto de poeira. Ele corta a carne em pedaços pequenos e leva o garfo até a boca de uma criança magra ao seu lado. Ela abre a boca sem olhar para ele.
 
 </td>
 <td valign="top">
 
 **Mestre**
 - **Cena:** pai e filho. _"Sua mãe está esperando. Deixe-me falar com esses aventureiros."_
-- **Pista:** de onde vem tanta comida?
-- **Loot:**
+- **Loot:** NADA DEFINIDO
 - **Saídas:** Ossuário, Cozinha, Dormitório, Biblioteca.
 
 </td>
